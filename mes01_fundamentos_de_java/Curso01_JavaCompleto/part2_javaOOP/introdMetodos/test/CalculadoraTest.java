@@ -13,5 +13,10 @@ public class CalculadoraTest {
         System.out.println(result);
         calc.imprimeDoisNumersDividos(20, 5);
         System.out.println("Continuando a exec");
+
+        int[] numbers = new int[]{1, 2, 3, 4, 5};
+        calc.somaArray(numbers);
+
+        calc.somaVarArgs(1, 2, 3, 4, 5);
     }
 }

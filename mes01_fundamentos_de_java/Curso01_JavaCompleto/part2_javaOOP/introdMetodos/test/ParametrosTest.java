@@ -8,5 +8,8 @@ public class ParametrosTest {
         int num = 5;
         int num1 = 10;
         calc.alteraDoisNumers(num, num1);
+        System.out.println("Dentro do teste");
+        System.out.println("num: " + num);
+        System.out.println("num1: " + num1);
     }
 }
