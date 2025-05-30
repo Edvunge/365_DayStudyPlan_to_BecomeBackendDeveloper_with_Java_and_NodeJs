@@ -1,4 +1,4 @@
-package mes01_fundamentos_de_java.Youtube.simpleLearning.FullStackJavaDeveloperCourse;
+package mes01_fundamentos_de_java.Youtube.simpleLearning.FullStackJavaDeveloperCourse.sect02_introdJava;
 
 public class MultiDimensionalArray {
     public static void main(String[] args) {

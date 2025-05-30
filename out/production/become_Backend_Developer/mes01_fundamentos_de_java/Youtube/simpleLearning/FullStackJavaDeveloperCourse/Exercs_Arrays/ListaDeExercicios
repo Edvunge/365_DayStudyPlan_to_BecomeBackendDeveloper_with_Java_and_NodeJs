@@ -9,10 +9,12 @@
    Escreva um programa que encontre o maior e o menor valor em um vetor de números reais.
 
 3. Inversão de Vetor
-   Faça um algoritmo que inverta a ordem dos elementos de um vetor (o primeiro vai para o último, o segundo para o penúltimo, etc.).
+   Faça um algoritmo que inverta a ordem dos elementos de um vetor
+    (o primeiro vai para o último, o segundo para o penúltimo, etc.).
 
 4. Busca de Elemento
-   Implemente um programa que verifique se um determinado valor está presente em um vetor e retorne sua posição (ou -1 se não existir).
+   Implemente um programa que verifique se um determinado valor está presente em um vetor e
+   retorne sua posição (ou -1 se não existir).
 
 5. Média Aritmética
    Crie um programa que calcule a média aritmética dos valores de um vetor de números.
