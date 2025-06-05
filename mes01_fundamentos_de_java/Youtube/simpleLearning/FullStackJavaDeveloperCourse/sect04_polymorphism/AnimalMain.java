@@ -7,5 +7,7 @@ public class AnimalMain {
         Dog dog = new Dog();
         animal.Sound();
         cow.Sound();
+        dog.Sound();
+        dog.Sound("angry ");
     }
 }
